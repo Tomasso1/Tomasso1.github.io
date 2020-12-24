@@ -128,6 +128,7 @@ input {
     opacity: 0.9;
     -webkit-transition: background-color 0.2s;
     transition: background-color 0.2s;
+    color: #000; 
 }
 
 .subscribe-input {
@@ -162,7 +163,6 @@ input {
 
 .btn-go {
     background: #4ba8dd;
-    color: white
 }
 
 /* HEADER SECTION */
